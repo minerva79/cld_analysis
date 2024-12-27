@@ -1,0 +1,19 @@
+
+    Patient Information
+
+    Patient Name: Mr. Smith
+    Patient ID: 789456
+    Date of Birth: 06/25/1965
+    Date of Examination: 03/15/2024
+
+MRI Examination Details
+
+    MRI Technique: Multi-parametric MRI with T2-weighted images, diffusion-weighted imaging (DWI), and dynamic contrast-enhanced (DCE) MRI.
+    Prostate Volume: 45 cc
+    PSA Level: 5.8 ng/mL
+
+MRI Findings
+
+    Lesion 1: Located in the left peripheral zone, mid gland. It shows significant restricted diffusion with a corresponding low ADC value and focal early enhancement on DCE MRI. PI-RADS Score: 5.
+    Lesion 2: Located in the right peripheral zone, apex. It has mildly restricted diffusion and no significant enhancement on DCE MRI. PI-RADS Score: 3.
+    Lesion 3: Located in the anterior fibromuscular stroma, showing moderate restricted diffusion and no early enhancement. PI-RADS Score: 3.
